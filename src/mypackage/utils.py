@@ -33,5 +33,11 @@ def calculate(a: float, b: float) -> float:
     -------
     float
         Sum of the two numbers.
+
+    Examples
+    --------
+    >>> calculate(1, 2)
+    result
+
     """
     return a + b
