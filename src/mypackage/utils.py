@@ -37,7 +37,7 @@ def calculate(a: float, b: float) -> float:
     Examples
     --------
     >>> calculate(1, 2)
-    result
+    3
 
     """
     return a + b
